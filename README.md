@@ -45,6 +45,15 @@ _you may use the links above to download appropriate versions; double click the 
 
 > that's it. we are now ready to launch ngsAnalyser.
 
+## install ngsAnalyser
+Download or get the shared <br/>
+ngsAnalyser-1.1.4.dmg <br/>
+double click the file and copy the app file to your Applications folder.<br/>
+
+_now you can simply double-click the app icon and it should open a new window on your desktop._
+
+
+
 
 
 
