@@ -52,6 +52,11 @@ double click the file and copy the app file to your Applications folder.<br/>
 
 _now you can simply double-click the app icon and it should open a new window on your desktop._
 
+## copyright
+
+DNA Replication and Genome Integrity Lab, CIB-CSIC<br/>
+_(https://www.cib.csic.es/research/cellular-and-molecular-biology/dna-replication-and-genome-integrity)_
+
 
 
 
