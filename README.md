@@ -10,18 +10,44 @@ XQuartz latest (https://www.xquartz.org/)<br/>
 <br/>
 ## install pyhton virtual environment
 ### open terminal window
-click top menu's Go button and choose utilities<br/>
-inside utilities double-click Terminal<br/>
-it will open up a Terminal window
+> click top menu's Go button and choose utilities<br/>
+> inside utilities double-click Terminal<br/>
+> it will open up a Terminal window
 ### check python version
-paste this line below in the terminal prompt<br/>
+> paste this line below in the terminal prompt<br/>
 python --version<br/>
-this will give you the following result<br/>
+<br/>
+> this will give you the following result<br/>
 Python 2.7.16<br/>
-this is the mac's system python<br/>
-but we will use python3 and that's why we installed Python 3.7.7, now we will check if the installation was fine<br/>
-copy and paste the following command in your terminal prompt<br/>
+<br/>
+> this is the mac's system python<br/>
+> but we will use python3 and that's why we installed Python 3.7.7, now we will check if the installation was fine<br/>
+<br/>
+> copy and paste the following command in your terminal prompt<br/>
 python3 --version<br/>
-if everything okay, you will have the following resul<br/>
+<br/>
+> if everything okay, you will have the following resul<br/>
 Python 3.7.7<br/>
+
+### install virtual environment
+
+> Now paste the following command in your terminal prompt<br/>
+pip3 install virtualenv<br/>
+<br/>
+> this will install virtual environment and you can confirm the installation by pasting the following command<br/>
+virtualenv<br/>
+<br/>
+> this will produce the following<br/>
+<br/>
+usage: virtualenv [--version] [--with-traceback] [-v | -q] ... <br/> 
+> and the system will exit with error message<br/>
+virtualenv: error: the following arguments are required: dest<br/>
+<br/>
+<br/>
+> that's it. we are now ready to launch ngsAnalyser.
+
+
+
+
+
 
