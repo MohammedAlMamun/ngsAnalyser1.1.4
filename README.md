@@ -2,9 +2,9 @@
 Electron-Shiny standalone app to bring DNA sequencing data analysis to the point of your mouse-clicks!
 ## prerequisites
 macOS 10.13 (High Sierra) and higher<br/>
-R 4.1.1 (https://cran.r-project.org/bin/macosx/)<br/>
-Python 3.7.7 (https://www.python.org/downloads/release/python-377/)<br/>
-XQuartz latest (https://www.xquartz.org/)<br/>
+R 4.1.1 _(https://cran.r-project.org/bin/macosx/)_<br/>
+Python 3.7.7 _(https://www.python.org/downloads/release/python-377/)_<br/>
+XQuartz latest _(https://www.xquartz.org/)_<br/>
 <br/>
 _you may use the links above to download appropriate versions; double click the .pkg file and follow the on screen instructions to install. XQuartz .pkg is inside the .dmg file._
 <br/>
@@ -46,7 +46,7 @@ _you may use the links above to download appropriate versions; double click the 
 > that's it. we are now ready to launch ngsAnalyser.
 
 ## install ngsAnalyser
-Download or get the shared <br/>
+Download the following file from here<br/> _(https://ifu.cib.csic.es/index.php/s/T7tZ88CwCbY5ECB)_ <br/>
 `ngsAnalyser-1.1.4.dmg` <br/>
 double click the file and copy the app file to your Applications folder.<br/>
 
