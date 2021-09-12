@@ -28,9 +28,9 @@ python3 --version<br/>
 <br/>
 > if everything okay, you will have the following resul<br/>
 Python 3.7.7<br/>
-
+<br/>
 ### install virtual environment
-
+<br/>
 > Now paste the following command in your terminal prompt<br/>
 pip3 install virtualenv<br/>
 <br/>
@@ -40,9 +40,9 @@ virtualenv<br/>
 > this will produce the following<br/>
 <br/>
 usage: virtualenv [--version] [--with-traceback] [-v | -q] ... <br/> 
+<br/>
 > and the system will exit with error message<br/>
 virtualenv: error: the following arguments are required: dest<br/>
-<br/>
 <br/>
 > that's it. we are now ready to launch ngsAnalyser.
 
