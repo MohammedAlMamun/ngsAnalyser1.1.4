@@ -62,6 +62,34 @@ double click the file and copy the app file to your Applications folder.<br/>
 
 _now you can simply double-click the app icon and it should open a new window on your desktop._
 
+## in case you are missing Command Line Tools
+After successfully completeing all the previous steps, you double-click the ngsAnayser app<br/>
+However, ngsAnalyser window opens and then gets blurry and nothing works.<br/>
+You can confirm it by clicking the refresh or quit button, there is no response.<br/>
+
+This is becuase your mac is missing Command Line Tools to allow the app run smoothly!<br/>
+The solution is to install Xcode and compile gcc or command line tools from there.<br/>
+However, if you run the ngsAnalyser with the shell executable, it will run in the terminal.<br/>
+It will directly offer you the prompt to install gcc.
+
+Just right click on ngsAnalyser, navigate to _Show Package Contents_ <br/>
+and inside _Contents_ folder, there is a folder named _MacOS_<br/>
+inside _MacOS_, you have the ngsAnalyser shell executable.<br/>
+Double-click it and it will open the app window as well as a terminal window<br/>
+where you have the application log. In absence of gcc, the app fails when trying to install _minipython_<br/>
+
+Now you will see a auto-prompt asking gcc is missing and offer you the install button.<br/>
+Heat the install button and just wait for the installation to finish.<br/>
+Relaunch ngsAnalyser, it should be ready at your service!
+
+## Persistent issues
+
+If you face any further obstackle in running ngsAnalyser, <br/>
+please start a new issue in this git repo by going to the issues section.
+
+
+### Thanks for using ngsAnalyser!
+
 ## copyright
 
 DNA Replication and Genome Integrity Lab, CIB-CSIC<br/>
