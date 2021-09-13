@@ -53,8 +53,8 @@ _you may use the links above to download appropriate versions; double click the 
 
 > now use Homebrew to install xz, copy and paste the following command in terminal and press enter<br/>
 `brew install xz`<br/>
-===============================================================<br/>
 
+===============================================================<br/>
 ## install ngsAnalyser
 Download the following file from here<br/> _(https://ifu.cib.csic.es/index.php/s/T7tZ88CwCbY5ECB)_ <br/>
 `ngsAnalyser-1.1.4.dmg` <br/>
