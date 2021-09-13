@@ -43,7 +43,7 @@ _you may use the links above to download appropriate versions; double click the 
 > and the system will exit with error message<br/>
 `virtualenv: error: the following arguments are required: dest`<br/>
 
-=======================================================================<br/>
+================================================================<br/>
 ## install xz (for macOS 10.13)
 
 > The xz library in macOS 10.13 is not compatible with samtools-1.13, which is the ngsAnalyser version.<br/>
@@ -52,8 +52,8 @@ _you may use the links above to download appropriate versions; double click the 
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 2> /dev/null`<br/>
 
 > now use Homebrew to install xz, copy and paste the following command in terminal and press enter<br/>
-`brew install xz`<br/>
-=======================================================================<br/>
+`brew install xz`
+================================================================<br/>
 that's it. we are now ready to launch ngsAnalyser.
 
 ## install ngsAnalyser
