@@ -62,7 +62,7 @@ double click the file and copy the app file to your Applications folder.<br/>
 
 _now you can simply double-click the app icon and it should open a new window on your desktop._
 
-## in case you are missing Command Line Tools
+### in case you are missing Command Line Tools
 After successfully completeing all the previous steps, you double-click the ngsAnayser app<br/>
 ngsAnalyser window opens and then gets blurry and nothing works.<br/>
 You can confirm it by clicking the refresh or quit button, there is no response.<br/>
