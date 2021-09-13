@@ -48,8 +48,10 @@ _you may use the links above to download appropriate versions; double click the 
 
 > The xz library in macOS 10.13 is not compatible with samtools-1.13, which is the ngsAnalyser version.<br/>
 >  So, if your macOS is 10.13, you need to install newer xz library.<br/>
+>  
 >  If you don't have Homebrew installed in your mac already, copy and paste the following command in the terminal prompt, same like you did with virtualenv - Homebrew installation may take few minutes<br/>
->  following is a single command from ruby upto null, don't miss<br/>
+>  
+>  (following is a single command from ruby upto null, don't miss)<br/>
 `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 2> /dev/null`<br/>
 
 > now use Homebrew to install xz, copy and paste the following command in terminal and press enter<br/>
