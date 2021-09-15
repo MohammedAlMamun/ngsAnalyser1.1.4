@@ -1,6 +1,7 @@
 # shiny-electron-ngsAnalysis
 Electron-Shiny standalone app to bring DNA sequencing data analysis to the point of your mouse-clicks!
 ## prerequisites
+Internet connection
 macOS 10.13 (High Sierra) and higher<br/>
 R 4.1.1 _(https://cran.r-project.org/bin/macosx/)_<br/>
 Python 3.7.7 _(https://www.python.org/downloads/release/python-377/)_<br/>
