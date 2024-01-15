@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ngsAnalyser
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Mohammed
+    family-names: Al Mamun
+    email: mamamun538@gmail.com
+    affiliation: CIB-CSIC
+    orcid: 'https://orcid.org/0000-0003-3438-3997'
+  - given-names: Rodrigo
+    family-names: Bermejo
+    affiliation: CIB-CSIC
+    orcid: 'https://orcid.org/0000-0002-2692-7045'
+    email: rodrigo.bermejo@csic.es
+identifiers:
+  - type: url
+    value: >-
+      https://app.gouze.io/search/hash/cbbec63aa4a3570092cc60ed117b972d8f8a4c5ee8c382e8e7860f0a2c7092dc
+    description: SigneBlock Certificate (THE HASH)
