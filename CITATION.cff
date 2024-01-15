@@ -11,15 +11,30 @@ authors:
   - given-names: Mohammed
     family-names: Al Mamun
     email: mamamun538@gmail.com
-    affiliation: CIB-CSIC
+    affiliation: CIB-CSIC (MADRID)
     orcid: 'https://orcid.org/0000-0003-3438-3997'
   - given-names: Rodrigo
     family-names: Bermejo
-    affiliation: CIB-CSIC
-    orcid: 'https://orcid.org/0000-0002-2692-7045'
     email: rodrigo.bermejo@csic.es
+    affiliation: CIB-CSIC (MADRID)
+    orcid: 'https://orcid.org/0000-0002-2692-7045'
 identifiers:
   - type: url
+    value: 'https://github.com/MohammedAlMamun/ngsAnalyser1.1.4'
+    description: GitHub Repository
+  - type: other
     value: >-
       https://app.gouze.io/search/hash/cbbec63aa4a3570092cc60ed117b972d8f8a4c5ee8c382e8e7860f0a2c7092dc
-    description: SigneBlock Certificate (THE HASH)
+    description: SigneBlock Certificate (THE HASH) for IPR Registration
+repository-code: 'https://github.com/MohammedAlMamun/ngsAnalyser1.1.4'
+url: 'https://github.com/MohammedAlMamun'
+abstract: >-
+  Electron-Shiny standalone app to bring DNA sequencing data
+  analysis to the point of your mouse-clicks!
+keywords:
+  - ChIP-Seq
+  - BrDU-Seq
+  - eSPAN-Seq
+license: MIT
+version: 1.1.4
+date-released: '2022-03-08'
